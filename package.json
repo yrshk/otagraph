@@ -20,6 +20,8 @@
     "@types/react-dom": "^18.2.25",
     "astro": "^4.16.18",
     "blobshape": "^1.0.0",
+    "convert-csv-to-json": "^2.50.0",
+    "force-graph": "^1.49.0",
     "marked": "^13.0.0",
     "marked-shiki": "^1.1.0",
     "react": "^18.2.0",
