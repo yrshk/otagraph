@@ -3,6 +3,8 @@ import netlify from '@astrojs/netlify';
 import react from '@astrojs/react';
 import tailwind from '@astrojs/tailwind';
 
+import { nodePolyfills } from 'vite-plugin-node-polyfills'
+
 // https://astro.build/config
 export default defineConfig({
     integrations: [
@@ -12,5 +14,15 @@ export default defineConfig({
         })
     ],
     output: 'hybrid',
-    adapter: netlify()
+    adapter: netlify(),
+	
+	vite: {
+		plugins: [
+			nodePolyfills(
+			{overrides:{fs:'memfs'}}
+			),
+		],
+	},
+	
+	devToolbar:{enabled:false}
 });
