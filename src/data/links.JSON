@@ -1,0 +1,254 @@
+[
+  {
+    "who": "Norio Productions",
+    "to who": "Inuyama Tamaki",
+    "relation": "",
+    "strength (%)": ""
+  },
+  {
+    "who": "Inuyama Tamaki",
+    "to who": "Tsukudani Norio",
+    "relation": "same",
+    "strength (%)": 0.2
+  },
+  {
+    "who": "Tsukudani Norio",
+    "to who": "Norio Productions",
+    "relation": "",
+    "strength (%)": ""
+  },
+  {
+    "who": "Inuyama Tamaki",
+    "to who": "Oda Nobuhime",
+    "relation": "collabs",
+    "strength (%)": 2
+  },
+  {
+    "who": "upd8",
+    "to who": "Oda Nobuhime",
+    "relation": "",
+    "strength (%)": ""
+  },
+  {
+    "who": "Oda Nobuhime",
+    "to who": "Omaru Polka",
+    "relation": "same",
+    "strength (%)": 0.2
+  },
+  {
+    "who": "Hololive",
+    "to who": "Omaru Polka",
+    "relation": "",
+    "strength (%)": ""
+  },
+  {
+    "who": "upd8",
+    "to who": "Kizuna Ai",
+    "relation": "",
+    "strength (%)": ""
+  },
+  {
+    "who": "Reality Studios",
+    "to who": "RK Music",
+    "relation": "",
+    "strength (%)": ""
+  },
+  {
+    "who": "Reality Studios",
+    "to who": "Specialite",
+    "relation": "",
+    "strength (%)": ""
+  },
+  {
+    "who": "Specialite",
+    "to who": "Tsukasa Ryogoku",
+    "relation": "",
+    "strength (%)": ""
+  },
+  {
+    "who": "RK Music",
+    "to who": "KMNZ",
+    "relation": "",
+    "strength (%)": ""
+  },
+  {
+    "who": "RK Music",
+    "to who": "Vesperbell",
+    "relation": "",
+    "strength (%)": ""
+  },
+  {
+    "who": "RK Music",
+    "to who": "Neun",
+    "relation": "",
+    "strength (%)": ""
+  },
+  {
+    "who": "Tsukasa Ryogoku",
+    "to who": "Anshinin Misa",
+    "relation": "",
+    "strength (%)": ""
+  },
+  {
+    "who": "Anshinin Misa",
+    "to who": "Tsukasa Ryogoku",
+    "relation": "",
+    "strength (%)": ""
+  },
+  {
+    "who": "VEE",
+    "to who": "Anshinin Misa",
+    "relation": "",
+    "strength (%)": ""
+  },
+  {
+    "who": "Sony Music Entertainment Japan",
+    "to who": "VEE",
+    "relation": "",
+    "strength (%)": ""
+  },
+  {
+    "who": "VEE",
+    "to who": "VERSEⁿ",
+    "relation": "",
+    "strength (%)": ""
+  },
+  {
+    "who": "Sony Music Entertainment Japan",
+    "to who": "VERSEⁿ",
+    "relation": "",
+    "strength (%)": ""
+  },
+  {
+    "who": "VERSEⁿ",
+    "to who": "Alba Sera",
+    "relation": "",
+    "strength (%)": ""
+  },
+  {
+    "who": "VEE",
+    "to who": "Alba Sera",
+    "relation": "",
+    "strength (%)": ""
+  },
+  {
+    "who": "VEE",
+    "to who": "Syusetu Kohaku",
+    "relation": "",
+    "strength (%)": ""
+  },
+  {
+    "who": "Shugao",
+    "to who": "KMNZ",
+    "relation": "Illustrator",
+    "strength (%)": ""
+  },
+  {
+    "who": "Shugao",
+    "to who": "HimeHina",
+    "relation": "Illustrator",
+    "strength (%)": ""
+  },
+  {
+    "who": "Studio LaRa",
+    "to who": "HimeHina",
+    "relation": "",
+    "strength (%)": ""
+  },
+  {
+    "who": "Brave Group",
+    "to who": "Studio LaRa",
+    "relation": "",
+    "strength (%)": 0.2
+  },
+  {
+    "who": "Brave Group",
+    "to who": "VSPO!",
+    "relation": "",
+    "strength (%)": 0.2
+  },
+  {
+    "who": "Brave Group",
+    "to who": "Riot Music",
+    "relation": "",
+    "strength (%)": 0.2
+  },
+  {
+    "who": "Riot Music",
+    "to who": "Doumyoji Cocoa",
+    "relation": "",
+    "strength (%)": ""
+  },
+  {
+    "who": "Riot Music",
+    "to who": "Nagase Yuka",
+    "relation": "",
+    "strength (%)": ""
+  },
+  {
+    "who": "VSPO!",
+    "to who": "Tachibana Hinano",
+    "relation": "",
+    "strength (%)": ""
+  },
+  {
+    "who": "Tachibana Hinano",
+    "to who": "Kamito",
+    "relation": "collabs",
+    "strength (%)": ""
+  },
+  {
+    "who": "VSPO!",
+    "to who": "Sendo Yuuhi",
+    "relation": "",
+    "strength (%)": ""
+  },
+  {
+    "who": "Shigure Ui",
+    "to who": "Sendo Yuuhi",
+    "relation": "Illustrator",
+    "strength (%)": ""
+  },
+  {
+    "who": "Shigure Ui",
+    "to who": "Inuyama Tamaki",
+    "relation": "collabs",
+    "strength (%)": ""
+  },
+  {
+    "who": "Kamito",
+    "to who": "Kanae",
+    "relation": "fan",
+    "strength (%)": 2
+  },
+  {
+    "who": "Nijisanji",
+    "to who": "Kanae",
+    "relation": "",
+    "strength (%)": ""
+  },
+  {
+    "who": "Nijisanji",
+    "to who": "Hoshikawa Sara",
+    "relation": "",
+    "strength (%)": ""
+  },
+  {
+    "who": "Inuyama Tamaki",
+    "to who": "Hoshikawa Sara",
+    "relation": "collabs",
+    "strength (%)": ""
+  },
+  {
+    "who": "Hololive",
+    "to who": "Oozora Subaru",
+    "relation": "",
+    "strength (%)": ""
+  },
+  {
+    "who": "Shigure Ui",
+    "to who": "Oozora Subaru",
+    "relation": "Illustrator",
+    "strength (%)": ""
+  }
+]
