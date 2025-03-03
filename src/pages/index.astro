@@ -9,9 +9,118 @@ An Astro website can go way beyond static pages - on the right platform.
 Netlify supports not only [Streaming SSR](https://docs.astro.build/en/guides/server-side-rendering/#html-streaming) and fast [Edge Middleware](https://docs.astro.build/en/guides/middleware/), but also [on-demand revalidation](https://www.netlify.com/blog/cache-tags-and-purge-api-on-netlify/) and [stale-while-revalidate](https://www.netlify.com/blog/swr-and-fine-grained-cache-control/). 
 Any page or data can be rebuilt only when needed, without site visitors ever getting a performance hit.
 `;
+
 ---
 
-<div id="graph"></div>
-<script src="../scripts/forceGraphMain2.js"></script>
 
-  <div>wah</div>
+<link rel="icon" type="image/jpg" href="/favicon.png"/>
+
+
+<style is:global>
+
+.hoverWindow {
+  position: fixed;
+  background-color: #F0F8FFCC;
+
+  padding: 10px;
+  border-radius: 5px;
+
+  z-index: 1;
+  }
+
+.hWImg {
+  max-width: 200px;
+  max-height: 200px;
+  padding: 0px;
+  height: auto;
+  border-radius: 5px;
+  margin-top: 10px;
+
+  background-color: #FFFFFF;
+}
+
+#graphOptionsElement {
+  position: absolute;
+  right: 20px;
+  transform: translate(0,-90px);
+  padding: 7px;
+  border-radius: 5px;
+
+  text-align: right;
+  background-color: #FFFFFFAA;
+  width: 30px;
+  height: 30px;
+
+  z-index: 2;
+}
+
+#graphOptionsElement:hover {
+  width: 30%;
+
+} 
+
+#graphOptionsElement:hover button{
+  display: initial;
+  animation-direction: normal;
+
+}
+
+.hWButton {
+  position:absolute;
+  background-color: #b1b9d2;
+  border-radius: 5px;
+  right:5px
+}
+
+.hWButton:hover {
+  background-color:  #92a6ce;
+  color:white;
+}
+
+.buttonOptions{
+  display: none;
+  position: relative;
+  padding: 5px;
+  border-radius: 5px; 
+  background-color: #b1b9d2;
+
+  animation-name: buttonSlide;
+  animation-duration: 0.1s;
+  animation-timing-function: ease-out;
+  animation-fill-mode: forwards;
+  animation-direction: reverse;
+
+}
+
+.buttonOptions:hover{
+  background-color:  #92a6ce;
+  color:white;
+
+}
+
+@keyframes buttonSlide {
+  0% {right: 0px;display:none;}
+  100% {right: 50px;display:initial;}
+}
+
+</style>
+
+<div id="GraphContainer"style="height:100%">
+  <div style="background-color: #b0b0ba;" id="graph"></div>
+
+  <span id="graphOptionsElement">
+    <img style="position: fixed;right:7px;max-width:30px"src="/images/Fa-Team-Fontawesome-FontAwesome-Gear.svg">
+    <button type="button" class="buttonOptions" id="SaveBt"> Save Graph</button>
+    <button type="button" class="buttonOptions" id="LoadBt"> Load Graph</button>
+    <button type="button" class="buttonOptions" id="EditBt"> Edit Graph</button>
+    <button type="button" class="buttonOptions" id="HiddenNodesBt"> Hidden Nodes</button>
+    <button type="button" class="buttonOptions" id="HideNodeLabelsBt"> Hide Node Labels</button>
+  </span>
+</div>
+
+
+
+<script src="../scripts/forceGraphMain.js"></script>
+
+
+{/*<div>wah</div>*/}
