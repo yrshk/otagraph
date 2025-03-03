@@ -1,0 +1,43 @@
+who,to who,relation,strength (%)
+Norio Productions,Inuyama Tamaki,,
+Inuyama Tamaki,Tsukudani Norio,same,0.2
+Tsukudani Norio,Norio Productions,,
+Inuyama Tamaki,Oda Nobuhime,collabs,2
+upd8,Oda Nobuhime,,
+Oda Nobuhime,Omaru Polka,same,0.2
+Hololive,Omaru Polka,,
+upd8,Kizuna Ai,,
+Reality Studios,RK Music,,
+Reality Studios,Specialite,,
+Specialite,Tsukasa Ryogoku,,
+RK Music,KMNZ,,
+RK Music,Vesperbell,,
+RK Music,Neun,,
+Tsukasa Ryogoku,Anshinin Misa,,
+Anshinin Misa,Tsukasa Ryogoku,,
+VEE,Anshinin Misa,,
+Sony Music Entertainment Japan,VEE,,
+VEE,VERSEⁿ,,
+Sony Music Entertainment Japan,VERSEⁿ,,
+VERSEⁿ,Alba Sera,,
+VEE,Alba Sera,,
+VEE,Syusetu Kohaku,,
+Shugao,KMNZ,Illustrator,
+Shugao,HimeHina,Illustrator,
+Studio LaRa,HimeHina,,
+Brave Group,Studio LaRa,,0.2
+Brave Group,VSPO!,,0.2
+Brave Group,Riot Music,,0.2
+Riot Music,Doumyoji Cocoa,,
+Riot Music,Nagase Yuka,,
+VSPO!,Tachibana Hinano,,
+Tachibana Hinano,Kamito,collabs,
+VSPO!,Sendo Yuuhi,,
+Shigure Ui,Sendo Yuuhi,Illustrator,
+Shigure Ui,Inuyama Tamaki,collabs,
+Kamito,Kanae,fan,2
+Nijisanji,Kanae,,
+Nijisanji,Hoshikawa Sara,,
+Inuyama Tamaki,Hoshikawa Sara,collabs,
+Hololive,Oozora Subaru,,
+Shigure Ui,Oozora Subaru,Illustrator,
