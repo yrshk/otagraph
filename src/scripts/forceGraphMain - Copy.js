@@ -84,7 +84,6 @@ function getVisibleData (){
         if(!nodesByName[link.Target].hidden){visibleLinks.push(link)};
         })
       }
-      if(node.pinned){node.fx = node.x; node.fy = node.y;}
     })
     //(If node is hidden, it's links aren't pushed either)
   return {nodes: visibleNodes, links: visibleLinks};
@@ -106,8 +105,8 @@ const updateGraphData = () => {
   
 
   console.log("graph updated"); 
-  //console.log("nodes:");
-  //console.log(graphData_Base.nodes);console.log(graphData_Base.links);
+  console.log("nodes:");
+  console.log(graphData_Base.nodes);console.log(graphData_Base.links);
   };
 
 
@@ -143,7 +142,6 @@ function makeNodeImages() {
 
 }
 
-//***make async function?
 function parseAndLoadData(setNodesPath,setLinksPath){
   let nodesPath = "";
   let linksPath = "";
@@ -173,12 +171,10 @@ const docsURLData = document.getElementById("DocsInfoHolderElement").innerHTML.s
 //parseAndLoadData(`https://docs.google.com/spreadsheets/d/e/${docsURLData[0]}/pub?gid=${docsURLData[1]}&single=true&output=csv`, 
 //                 `https://docs.google.com/spreadsheets/d/e/${docsURLData[0]}/pub?gid=${docsURLData[2]}&single=true&output=csv`);
 
-  //import vtubersJSON from "../data/graphs/vtubers.json";
+  import vtubersJSON from "../data/graphs/vtubers.json";
 
-console.log(docsURLData[1]);
-if(docsURLData[1] === ""){
-  console.log(docsURLData[1]);
-  graphData_Base = JSON.parse(document.getElementById("objHolder").innerHTML);
+if(docsURLData[0] == "vtubers"){
+  graphData_Base = vtubersJSON;
 }
 else{
   const nodeURL = `https://docs.google.com/spreadsheets/d/e/${docsURLData[0]}/pub?gid=${docsURLData[1]}&single=true&output=csv`;
@@ -187,8 +183,6 @@ console.log(nodeURL);
   parseAndLoadData(nodeURL, linkURL);
 }
 //parseAndLoadData(nodesDefaultFileURL, linksDefaultFileURL);
-
-
 
 //***************************************************************************************************************************************
 //										Main graph settings
@@ -263,8 +257,7 @@ Graph
 
 Graph.d3Force('link').distance(link => nodeDistanceFunction(link));
 Graph.d3Force('charge').distanceMax(200);
-Graph.d3Force('charge').strength(-50);
-Graph.d3Force('center').strength(0.05);
+Graph.d3Force('center').strength(0.5);
 
 updateGraphData();
 
@@ -291,7 +284,7 @@ function paintNodeCircle(node, ctx, dfNodeSize){
 	
 
 	//Find larger side to fit image to (Same ratio to preserve aspect ratio)
-	const ratio  = Math.max ( nodeSize / nodeImage.width, 
+	const ratio  = Math.min ( nodeSize / nodeImage.width, 
 							nodeSize / nodeImage.height);
 	const widthScaled = nodeImage.width*ratio;
 	const heightScaled = nodeImage.height*ratio;
@@ -301,7 +294,7 @@ function paintNodeCircle(node, ctx, dfNodeSize){
 	const textSidePadding = 8;
 	const textRectPadding = 1.5;
 	const textRectHeight = 8;
-	const ftSize = 8;
+	const ftSize = 6;
 
 
 
@@ -351,8 +344,6 @@ if(showNodeLabel || highlightedNodes.has(node)){
     ctx.save();
     ctx.fillStyle = "White";
     ctx.fillRect(x-nodeSize/2, y-nodeSize/2, nodeSize,nodeSize);
-    ctx.rect(x-nodeSize/2, y-nodeSize/2, nodeSize,nodeSize);
-    ctx.clip();
   }
   else if(Shape == "diamond"){
     ctx.save();
@@ -381,7 +372,7 @@ if(showNodeLabel || highlightedNodes.has(node)){
         (0 - nodeSize/2) + centerShift_x, (0 - nodeSize/2) + centerShift_y, widthScaled, heightScaled);
     }
   }
-  catch (err){console.log(`For ${Name}:` + err);
+  catch (err){//console.log(`For ${Name}:` + err);
           }
 
   if(highlightedNodes.has(node)){
@@ -396,14 +387,13 @@ if(showNodeLabel || highlightedNodes.has(node)){
     ctx.stroke();
   }	
   else if(Shape == "square"){
-    // (if not clipped)ctx.lineWidth = ctx.lineWidth/2;
+    ctx.lineWidth = ctx.lineWidth/2;
     ctx.strokeRect(x-nodeSize/2, y-nodeSize/2, nodeSize,nodeSize);
   }
   else if(Shape == "diamond"){
     //.transform not restored because of .clip
     ctx.rotate(Math.PI/4);
     ctx.strokeRect(0-nodeSize/2, 0-nodeSize/2, nodeSize,nodeSize);
-    ctx.restore();
   }	
 	return;
 }
@@ -456,7 +446,7 @@ function bringNodeToTop(node){
     // graphData_Base.nodes.splice(node.index, 1);  
     //updateGraphData();
 
-  //console.log(Graph.graphData().nodes);
+    console.log(Graph.graphData().nodes);
   Graph.graphData().nodes.splice(node.index, 1);  
   Graph.graphData().nodes.push(node);
     console.log(Graph.graphData().nodes[Graph.graphData().nodes.length-1]);
@@ -522,12 +512,12 @@ function nodeDragFn(dragNode, translate){
     //let node = graphData_Base.nodes[i];
     //console.log(node);
     if(dragNode === node){continue;}
-    if(!interimLink && distanceCalc( node, dragNode) < 40){
+    if(!interimLink && distanceCalc( node, dragNode) < 25){
       setInterimLink( node, dragNode);
       break;
     }
     if(interimLink){ 
-      if(node !== nodesByName[interimLink.Target] && distanceCalc(node,dragNode) < 40){
+      if(node !== nodesByName[interimLink.Target] && distanceCalc(node,dragNode) < 25){
         removeLink(interimLink);
         setInterimLink( node, dragNode);
       }
@@ -648,7 +638,7 @@ function createHoverWindowHTML(node){
   <img class= "hWImg" src="${node.Image}">
 	<p style="text-align:center; padding: 0px; font-size: 125%; margin: 3px">${node.Name}</p>
   <p style="text-align: center; padding: 0px; margin: 3px">${node.Notes}</p>
-	<a href="${node.Link}" target="_blank"><p style="text-align:center"> Link </p></a>`
+	<a href="${node.Link}"><p style="text-align:center"> Link </p></a>`
 	;
 	return hwHTMLString;
 }
@@ -681,7 +671,6 @@ function nodeDistanceFunction(link,id){
     return link.Strength * dfNodeDistance;
   }
   else{
-    //return dfNodeDistance;
     return distanceCalc(link.source, link.target);
   }
     
@@ -700,12 +689,12 @@ function drawLinkCanvasObject(link, ctx){
 
 
       ctx.textAlign = "center";
-      ctx.font = `8px Tahoma`;
-      ctx.fillStyle = "#FFFFFF"
+      ctx.font = `4px Tahoma`;
+      ctx.fillStyle = "#dededeCC"
       ctx.fillRect(linkMiddlex - (ctx.measureText(link.Relation).width/2) - 2, 
-				 linkMiddley - 1,
+				 linkMiddley - 2,
 				 ctx.measureText(link.Relation).width + 4,
-				 10);
+				 7);
       ctx.fillStyle = "Black";
       ctx.textBaseline = "top";
       ctx.fillText(link.Relation, linkMiddlex, linkMiddley);
@@ -828,7 +817,6 @@ function toggleEditModeFn(){
 
 function makeEditNodeForm(event){
   //console.log(nodesByName[this.value]);
-  //<option value="diamond">Diamond</option>
   const node = nodesByName[this.value];
   const editFormHTMLString = `
 <div><label>Name: </label><input pattern="[^<>]{30}"id="NodeNameField" value="${node.Name}"></div>
@@ -839,6 +827,7 @@ function makeEditNodeForm(event){
 <div><label>Shape: </label><select id="NodeShapeField">
 <option value="circle">Circle</option>
 <option value="square">Square</option>
+<option value="diamond">Diamond</option>
 </select></div>
 <div><label>Border Color: </label><input type="color" id="NodeColorField" list="ColorDatalist" value="${node.BorderColor}"></div>
 <button type="button" id="EditNodeFormSubmitBt" value="${node.Name}" style="position:absolute;left:40%;bottom:0.75em;">Confirm</input>
@@ -883,9 +872,7 @@ function editNodeFormSubmitFn(){
   const node = nodesByName[this.value];
   console.log(node);
   node.Name = document.getElementById("NodeNameField").value;
-  if(document.getElementById("NodeImageField").value == "undefined"){
-node.Image = "";
-  }else{node.Image = document.getElementById("NodeImageField").value;}
+  node.Image = document.getElementById("NodeImageField").value;
   node.Link = document.getElementById("NodeLinkField").value;
   node.Notes = document.getElementById("NodeNotesField").value;
   node.Size = document.getElementById("NodeSizeField").value;
@@ -936,14 +923,14 @@ let completeGraphURL = null;
 
 function createDLFiles (){
   const nodesDataStripped = graphData_Base.nodes.map(node => {
-    return {"Name": node.Name, "Image": node.Image, "Link": node.Link, "Notes": node.Notes, "Size": node.Size, "Shape": node.Shape, "BorderColor": node.BorderColor};
+    return {"Name": node.Name, "Image": node.Image, "Link": node.Link, "Notes": node.Notes, "Size": node.Size, "Shape": node.Shape};
   }); 
   const linksDataStripped = graphData_Base.links.map(link => {
     return {"Source": link.Source, "Target": link.Target, "Relation":link.Relation, "Strength":link.Strength,"Style":link.Style,"Color":link.Color};
   }); 
 
   const nodesMoreData = graphData_Base.nodes.map(node => {
-    return {"Name": node.Name, "Image": node.Image, "Link": node.Link, "Notes": node.Notes, "Size": node.Size, "Shape": node.Shape, "x": node.x, "y": node.y, "pinned":node.pinned, "hidden":node.hidden, "BorderColor": node.BorderColor};
+    return {"Name": node.Name, "Image": node.Image, "Link": node.Link, "Notes": node.Notes, "Size": node.Size, "Shape": node.Shape, "x": node.x, "y": node.y, "pinned":node.pinned, "hidden":node.hidden};
   }); 
 
 

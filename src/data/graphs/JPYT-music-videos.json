@@ -1,0 +1,4096 @@
+{
+  "nodes": [
+    {
+      "Name": "TeddyLoid",
+      "Image": "https://pbs.twimg.com/profile_images/1742484464209715200/35mQ8NJt_400x400.jpg",
+      "Link": "https://www.youtube.com/channel/UCDW-kx3ErDhFuQ50vCOXU_A",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 249.057393181551,
+      "y": -549.121828183199,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Odo",
+      "Image": "https://i.scdn.co/image/ab67616d0000b2730f7bef8299e3738350d6846e",
+      "Link": "https://www.youtube.com/watch?v=YnSW8ian29w",
+      "Notes": "undefined",
+      "Size": "1",
+      "Shape": "square",
+      "x": -45.9803891096583,
+      "y": -838.368456987441,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Giga",
+      "Image": "https://pbs.twimg.com/profile_banners/122433269/1731066110/1500x500",
+      "Link": "https://www.youtube.com/channel/UCvq3kUGY5Dbsdkr3DZx25Sw",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 647.033212442319,
+      "y": -538.031628689949,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Deco*27",
+      "Image": "https://pbs.twimg.com/profile_images/1400323907735805954/DzkBzUPR_400x400.jpg",
+      "Link": "https://www.youtube.com/c/DECO27Official",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 391.029609526692,
+      "y": -1279.9913183375,
+      "pinned": false,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "TeddyLoid+Giga",
+      "Image": "",
+      "Link": "",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 448.277577051813,
+      "y": -568.6243642576,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Aise Minami",
+      "Image": "https://pbs.twimg.com/profile_images/1520419209515507714/iJvvkKEM_400x400.png",
+      "Link": "https://aisemanami.work/",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -0.18172741420206,
+      "y": -1180.81972293553,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "REOL",
+      "Image": "",
+      "Link": "",
+      "Notes": "Group, disbanded",
+      "Size": "1",
+      "Shape": "",
+      "x": 973.57764799416,
+      "y": -721.263956175426,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Reol",
+      "Image": "https://pbs.twimg.com/profile_images/1657037280077553664/fc12NGM4_400x400.jpg",
+      "Link": "https://www.youtube.com/channel/UCB6pJFaFByws3dQj4AdLdyA",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 1051.07470788782,
+      "y": -944.443235798792,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "No Title",
+      "Image": "https://static.wikia.nocookie.net/jpop/images/8/8d/Reol_No_title-_cover.jpg",
+      "Link": "https://www.youtube.com/watch?v=LfephiFN76E",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 895.638042879798,
+      "y": -537.075509771494,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Ogita",
+      "Image": "https://pbs.twimg.com/profile_images/766196817197314048/CGwg_jy5_400x400.jpg",
+      "Link": "https://x.com/__Lizel",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 849.571147432607,
+      "y": -878.188525708988,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Ado",
+      "Image": "https://pbs.twimg.com/profile_images/1877372184378949632/FwegsHDv_400x400.jpg",
+      "Link": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 95.506332377062,
+      "y": -679.504500054324,
+      "pinned": true,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Kayuka",
+      "Image": "https://pbs.twimg.com/profile_images/1482699961900830720/Ghy2TfOs_400x400.jpg",
+      "Link": "https://x.com/17_s_kyk",
+      "Notes": "Illustrator",
+      "Size": "1",
+      "Shape": "",
+      "x": -122.978405942465,
+      "y": -1022.95146863456,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "ORIHARA",
+      "Image": "https://pbs.twimg.com/profile_images/1491801478847434754/PTn_G3vA_400x400.jpg",
+      "Link": "https://x.com/ewkkyorhr",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -322.472965364783,
+      "y": -1008.72630063675,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Make Em Afraid",
+      "Image": "https://i.scdn.co/image/ab67616d00001e02a585bb9d401a44a0a21a5e30",
+      "Link": "https://www.youtube.com/watch?v=tzOXIHGfVFc",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": -428.332674361829,
+      "y": -1180.60274883387,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Mori Calliope",
+      "Image": "https://pbs.twimg.com/profile_images/1666277398005059585/P0dobqU0_400x400.jpg",
+      "Link": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -338.132797086607,
+      "y": -1368.74912444736,
+      "pinned": false,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Zamuza",
+      "Image": "https://t2.genius.com/unsafe/340x340/https%3A%2F%2Fimages.genius.com%2Ff594a9b2d96fb44d164ef0cf1a975a5c.1000x1000x1.jpg",
+      "Link": "https://www.youtube.com/watch?v=q90SFMi8aUg",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": -571.683450887758,
+      "y": -1002.95424110701,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Teniwoha",
+      "Image": "https://pbs.twimg.com/profile_images/539421487422124032/loUM3ZD9_400x400.jpeg",
+      "Link": "https://www.youtube.com/channel/UCQAdXyrF2fYcqdXUUW3YxUg",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -736.946955805969,
+      "y": -1169.1804593372,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Villian",
+      "Image": "https://m.media-amazon.com/images/I/517Cz-3SprL._SL160_.jpg",
+      "Link": "https://www.youtube.com/watch?v=p9FJXfGHtDA",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": -795.46392106917,
+      "y": -977.921648762889,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Nekoko",
+      "Image": "https://pbs.twimg.com/profile_images/1245353464550453250/BacR0GaX_400x400.jpg",
+      "Link": "https://x.com/nekoko_35",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -932.577924566985,
+      "y": -1123.53579902052,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Picaresque Romancer",
+      "Image": "https://i.scdn.co/image/ab67616d0000b273e92490dade180007e28a1484",
+      "Link": "https://www.youtube.com/watch?v=NL-9sej_svs",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": -1124.65760790255,
+      "y": -1179.29253991075,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Meychan",
+      "Image": "https://pbs.twimg.com/profile_images/1642089051745579014/1Z797Sjd_400x400.jpg",
+      "Link": "https://www.youtube.com/@meynico/videos",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -1024.89407009173,
+      "y": -1352.72912392976,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Ussewa",
+      "Image": "https://static.wikia.nocookie.net/vocaloid/images/e/e9/Usseewa_syudou.jpg",
+      "Link": "https://www.youtube.com/watch?v=Qp3b-RXtz4w",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": -147.556694663726,
+      "y": -649.740710898032,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "syudou",
+      "Image": "https://pbs.twimg.com/profile_images/1532270402323353600/HDraGMtP_400x400.jpg",
+      "Link": "https://www.youtube.com/channel/UCraC7460yGQF4GDmSjCecpQ",
+      "Notes": "undefined",
+      "Size": "1",
+      "Shape": "",
+      "x": -433.936200114373,
+      "y": -678.809176677921,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "WOOMA",
+      "Image": "https://pbs.twimg.com/profile_images/1509848412539465734/GGcEqYaH_400x400.jpg",
+      "Link": "https://x.com/tomapocpo",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -284.976939552161,
+      "y": -812.274498787027,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Bitter Choco Decoration",
+      "Image": "https://static.wikia.nocookie.net/vocaloid/images/a/ab/Bitter_Choco_Decoration.jpg",
+      "Link": "https://www.youtube.com/watch?v=XCyKJD6uQyg",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": -724.05376750222,
+      "y": -790.568739858673,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Yasutatsu",
+      "Image": "https://pbs.twimg.com/profile_images/1402187858232836096/obhnjHjT_400x400.jpg",
+      "Link": "https://x.com/yasutatsu_",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -624.206719083074,
+      "y": -617.201261654675,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Cute Na Kanojo",
+      "Image": "https://i.scdn.co/image/ab67616d00001e02151cc9083e0fcf8d9cfa7db4",
+      "Link": "https://www.youtube.com/watch?v=oFmup8lxUHw",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": -805.77641177289,
+      "y": -481.276441974908,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "kuroume",
+      "Image": "https://pbs.twimg.com/profile_images/1396752205647024128/i9zuCeQP_400x400.jpg",
+      "Link": "https://x.com/kuroume_1024",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -1012.10544283456,
+      "y": -540.53974783302,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Endeavour",
+      "Image": "https://pbs.twimg.com/media/GR9qnDrbAAAvcXh?format=jpg",
+      "Link": "https://www.youtube.com/watch?v=Qgz_sZf4V7Y",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": -1307.826169771,
+      "y": -492.623798730162,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Fuwa Minato",
+      "Image": "https://pbs.twimg.com/profile_images/1780798620897615872/p7GEFyPW_400x400.jpg",
+      "Link": "https://www.youtube.com/@FuwaMinato",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -1484.10744976524,
+      "y": -389.357112134264,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Violet!?",
+      "Image": "https://pbs.twimg.com/media/GWY1mqYacAA2o5d?format=jpg",
+      "Link": "https://www.youtube.com/watch?v=Ie9lBdgcvPc",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": -1677.50987335021,
+      "y": -296.469395338041,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "wotaku",
+      "Image": "https://pbs.twimg.com/profile_images/1249401370576171008/2AJlS4ki_400x400.jpg",
+      "Link": "https://www.youtube.com/c/wotaku",
+      "Notes": "undefined",
+      "Size": "1",
+      "Shape": "",
+      "x": -1309.68864344729,
+      "y": -291.428667583116,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "natori",
+      "Image": "https://pbs.twimg.com/profile_images/1829947247233990658/4XLEMcGy_400x400.jpg",
+      "Link": "https://www.youtube.com/@Siritoriyowai_",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -1878.05025646992,
+      "y": -288.047812833475,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Overdose",
+      "Image": "https://t2.genius.com/unsafe/340x340/https%3A%2F%2Fimages.genius.com%2F9a97a3e9d587cb188b3a955035b2cda0.1000x1000x1.png",
+      "Link": "https://www.youtube.com/watch?v=H08YWE4CIFQ",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": -2016.89455460381,
+      "y": -449.235594401356,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "KAFU",
+      "Image": "https://static.wikia.nocookie.net/cevio/images/4/4b/CeVIO15.png",
+      "Link": "https://www.youtube.com/channel/UCm_1n9F3A6pz-Ms2NP93tBA",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -992.689696086076,
+      "y": -802.293329186071,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "KAF",
+      "Image": "https://pbs.twimg.com/profile_images/1857563207411576832/YU7MlUTb_400x400.jpg",
+      "Link": "https://www.youtube.com/@virtual_kaf",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -1058.77308835374,
+      "y": -753.025596635105,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Show (shou)",
+      "Image": "https://i.scdn.co/image/ab67616d00001e02985fe71d6d5d528429037716",
+      "Link": "https://www.youtube.com/watch?v=pgXpM4l_MwI",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": -223.57471213955,
+      "y": -464.746959913354,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "TOHRU MITSUHASHI",
+      "Image": "https://pbs.twimg.com/profile_images/1140633073517678592/KaWNaW7R_400x400.png",
+      "Link": "https://x.com/tohru_m",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 116.799134747606,
+      "y": 266.70455336792,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Viva Happy",
+      "Image": "https://t2.genius.com/unsafe/340x340/https%3A%2F%2Fimages.genius.com%2F7b441264c944567097cd807d4ebfc69b.800x800x1.png",
+      "Link": "https://www.youtube.com/watch?v=WiUjG9fF3zw",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 311.458597784869,
+      "y": -132.613703360803,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Devour the past",
+      "Image": "https://t2.genius.com/unsafe/340x340/https%3A%2F%2Fimages.genius.com%2F649dcad5a1ef6f375d587c9ab92ddfe3.460x460x1.jpg",
+      "Link": "https://www.youtube.com/watch?v=tMKrECxEpq8",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": -1246.09677875884,
+      "y": -682.864249549172,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Iori Kanzaki",
+      "Image": "https://pbs.twimg.com/profile_images/1641818420588204032/G3_R9fYA_400x400.jpg",
+      "Link": "https://www.youtube.com/channel/UCv1KOiaRusvqOR4BrT9Sh8w",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -1250.79186214021,
+      "y": -884.799537892944,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Hated by life itself.",
+      "Image": "https://img.youtube.com/vi/0HYm60Mjm0k/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=0HYm60Mjm0k",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": -1448.06533957864,
+      "y": -850.618052995032,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "TOPHAMHAT-KYO",
+      "Image": "https://pbs.twimg.com/profile_images/1150955020168228865/VSa1KadA_400x400.png",
+      "Link": "https://www.youtube.com/@TOPHAMHAT-KYO",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -495.108775278786,
+      "y": -488.392668233782,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "FAKE TYPE.",
+      "Image": "https://pbs.twimg.com/profile_images/1677620515870244864/7W_bFMDr_400x400.jpg",
+      "Link": "https://www.youtube.com/channel/UCvsjE1LW3lVVF0O0fPDnO7w",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -421.768472915088,
+      "y": -452.370807454289,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "DYES IWASAKI",
+      "Image": "https://pbs.twimg.com/profile_images/1677656757093679105/Yke4J3Wj_400x400.jpg",
+      "Link": "https://www.youtube.com/c/DYESIWASAKI_official",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -398.911743128013,
+      "y": -374.467137200216,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "What an amazing swing",
+      "Image": "https://hololive.hololivepro.com/wp-content/uploads/2023/11/What-an-amazing-swing.png",
+      "Link": "https://www.youtube.com/watch?v=d3UTywBDSW4",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": -863.285251211761,
+      "y": -156.984837318609,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Tsunomaki Watame",
+      "Image": "https://pbs.twimg.com/profile_images/1637922644803858432/KFMZDvrP_400x400.jpg",
+      "Link": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -848.72708459439,
+      "y": 46.611408633773,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Sanzigen ",
+      "Image": "https://pbs.twimg.com/profile_images/1200350775366471682/iPWZMRfU_400x400.jpg",
+      "Link": "https://www.sanzigen.co.jp/",
+      "Notes": "Animation studio",
+      "Size": "1",
+      "Shape": "",
+      "x": -1060.1201889886,
+      "y": 222.818428613307,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "SAIKYOUTICPOLKA",
+      "Image": "https://img.youtube.com/vi/0bo6MVQxY6Y/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=0bo6MVQxY6Y",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": -1249.32234866246,
+      "y": 378.316553226779,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Hidekazu Tanaka",
+      "Image": "https://pbs.twimg.com/profile_images/1421901224207544324/RIzpCc8s_400x400.jpg",
+      "Link": "https://x.com/HdkzTanaka",
+      "Notes": "Jailed",
+      "Size": "1",
+      "Shape": "",
+      "x": -1604.36923514907,
+      "y": 163.043155945393,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Koi wa Chaos no Shimobe Nari",
+      "Image": "https://img.youtube.com/vi/Lcb7Za77lfw/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=Lcb7Za77lfw",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": -1673.66440120874,
+      "y": -24.833116829723,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Suki no Skill",
+      "Image": "https://m.media-amazon.com/images/I/81xjJ-WTAdL._UF1000,1000_QL80_.jpg",
+      "Link": "https://www.youtube.com/watch?v=b7T2dAEuzIQ",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": -1793.03982394783,
+      "y": 229.912234073421,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Wake Up, Girls!",
+      "Image": "https://static.wikia.nocookie.net/wake-up-girls/images/1/1a/Wake_Up%2C_Girls%21_Key_Visual.jpg",
+      "Link": "https://wug-portal.jp/",
+      "Notes": "Group, disbanded",
+      "Size": "1",
+      "Shape": "",
+      "x": -1641.72391184006,
+      "y": 361.622450048212,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Kodama Saori",
+      "Image": "https://pbs.twimg.com/profile_images/567288435908423680/p83ESeN7_400x400.png",
+      "Link": "https://x.com/codamasaori",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -1438.22501786825,
+      "y": 311.423115862534,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Omaru Polka",
+      "Image": "https://pbs.twimg.com/profile_images/1897838196567982080/s8dliohC_400x400.jpg",
+      "Link": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+      "Notes": "undefined",
+      "Size": "1",
+      "Shape": "",
+      "x": -1323.06206885664,
+      "y": 570.40484516705,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Anti-Gravity Girl",
+      "Image": "https://img.youtube.com/vi/L0X1fDI5PJA/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=L0X1fDI5PJA",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 599.269281601992,
+      "y": 204.364048156546,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Mitchie M",
+      "Image": "https://pbs.twimg.com/profile_images/901488419100008449/v8vzWxJO_400x400.jpg",
+      "Link": "https://www.youtube.com/@MitchieM",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 597.496088041755,
+      "y": -372.806040601365,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "TAKU INOUE",
+      "Image": "https://pbs.twimg.com/profile_images/1859049506027040768/PNOcesXW_400x400.jpg",
+      "Link": "https://x.com/ino_tac",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 800.21543983448,
+      "y": -162.965304379268,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "FREELY TOMORROW",
+      "Image": "https://img.youtube.com/vi/VTqQ6ZgjpNk/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=VTqQ6ZgjpNk",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 797.25497935341,
+      "y": -362.945804651734,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Tsukino Mito",
+      "Image": "https://pbs.twimg.com/profile_images/1088727022069637120/hk11wmu5_400x400.jpg",
+      "Link": "https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 524.225504841117,
+      "y": 18.7930284653426,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Midnight Grand Orchestra",
+      "Image": "https://pbs.twimg.com/profile_images/1508387172822310920/5xZ7Kv0C_400x400.jpg",
+      "Link": "https://www.youtube.com/channel/UCnVbtCwr-5LXxUlGxsgD7sQ",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 943.903158668065,
+      "y": -176.76262519967,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Hoshimachi Suisei",
+      "Image": "https://pbs.twimg.com/profile_images/1857037261138755584/VHW6H4ip_400x400.jpg",
+      "Link": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 904.863344389938,
+      "y": 69.1389280062633,
+      "pinned": false,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "INTERNET OVERDOSE",
+      "Image": "https://img.youtube.com/vi/Ti4K8uuiLZ0/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=Ti4K8uuiLZ0",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": -912.588108537429,
+      "y": 605.624815229317,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "KOTOKO",
+      "Image": "https://pbs.twimg.com/profile_images/1857689119515881473/0m9OUgnS_400x400.jpg",
+      "Link": "https://x.com/KOTOKO_Dwarf",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -939.092742557875,
+      "y": 407.358624983035,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Kokamumo",
+      "Image": "https://pbs.twimg.com/profile_images/1665778201233330177/7bxN-Bjy_400x400.jpg",
+      "Link": "https://x.com/kokakimumose",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -1108.18759828465,
+      "y": 562.593220148772,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Aiobahn",
+      "Image": "https://pbs.twimg.com/profile_images/1860184348231892993/jUjiEyve_400x400.jpg",
+      "Link": "https://www.youtube.com/channel/UC3XZCxTQ55JkT35W27Jtbyg",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -1155.66892557247,
+      "y": 772.815434373375,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Aiobahn +81",
+      "Image": "https://pbs.twimg.com/profile_images/1896095170497822726/qa3HrpqN_400x400.jpg",
+      "Link": "https://www.youtube.com/playlist?list=PLf5We7zP_Lw4Z0JVgPh6SEB2unEyVLEw6",
+      "Notes": "Seperate name for internet songs",
+      "Size": "1",
+      "Shape": "",
+      "x": -854.154365045701,
+      "y": 803.192464731945,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "That Summer Saturates.",
+      "Image": "https://img.youtube.com/vi/2hz0lhAs0Kg/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=2hz0lhAs0Kg",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": -1298.1582077852,
+      "y": -1079.23067429128,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "TentenTengokuJigokugoku",
+      "Image": "https://img.youtube.com/vi/eTplxWaAD8o/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=eTplxWaAD8o&amp;amp;amp;amp;list=PLf5We7zP_Lw4Z0JVgPh6SEB2unEyVLEw6",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": -676.826167354938,
+      "y": 686.656241315182,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Pmarusama",
+      "Image": "https://pbs.twimg.com/profile_images/1840715053143924736/TeM3frE9_400x400.jpg",
+      "Link": "https://www.youtube.com/channel/UCLqCmbd6bgcLaBVz3aA-68A",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -452.072290685453,
+      "y": 1026.05653825466,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Nanahira",
+      "Image": "https://pbs.twimg.com/profile_images/1419679571398434818/0AHD33mR_400x400.png",
+      "Link": "https://www.youtube.com/channel/UC_fYA9QRK-aJnFTgvR_4zug",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -252.106888509508,
+      "y": 1022.36709819679,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Youno Yoshimi",
+      "Image": "https://pbs.twimg.com/profile_images/1449661233766887427/6aLZ7h0h_400x400.jpg",
+      "Link": "https://x.com/shatyou",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -625.87336062144,
+      "y": 947.074487902918,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "IOSYS",
+      "Image": "https://pbs.twimg.com/profile_images/826663039399186432/CZck7q8n_400x400.jpg",
+      "Link": "https://www.youtube.com/@iosys_official",
+      "Notes": "Team",
+      "Size": "1",
+      "Shape": "",
+      "x": -203.032295105703,
+      "y": 828.482224177635,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "odyk",
+      "Image": "https://pbs.twimg.com/profile_images/1670267784784404480/hhdqmuqf_400x400.jpg",
+      "Link": "https://www.youtube.com/@odyknms",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -467.201987104682,
+      "y": 656.647079937226,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "new world",
+      "Image": "https://img.youtube.com/vi/evloseZCQcc/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=evloseZCQcc",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": -1164.61096851171,
+      "y": 974.242774660493,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Isekaijoucho",
+      "Image": "https://pbs.twimg.com/profile_images/1838910778113736704/b56D0WGc_400x400.jpg",
+      "Link": "https://www.youtube.com/@isekaijoucho",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -1082.0276046829,
+      "y": 1162.66648284834,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Sirius no Shinzou",
+      "Image": "https://img.youtube.com/vi/UKZt1vq8bKI/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=UKZt1vq8bKI",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": -835.709336740702,
+      "y": 1457.29055714699,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Kasamura Tota",
+      "Image": "https://pbs.twimg.com/profile_images/1725077874301140992/tQEECB8N_400x400.jpg",
+      "Link": "https://www.youtube.com/@KasamuraTota/videos",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -706.00938597315,
+      "y": 1656.137810866,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "UDON",
+      "Image": "https://pbs.twimg.com/profile_images/911792055671595008/bv88TiZW_400x400.jpg",
+      "Link": "https://x.com/udon_yt",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -1032.74707481392,
+      "y": 1371.55716562283,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Anata no Yoru ga Akeru made",
+      "Image": "https://img.youtube.com/vi/xfR0iTh8PSI/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=xfR0iTh8PSI",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": -905.680523945763,
+      "y": 1644.65202925983,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Isekai no Housekitan",
+      "Image": "https://img.youtube.com/vi/hcqXjcO791s/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=hcqXjcO791s",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": -871.204480559163,
+      "y": 1253.63179863361,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "oumlr",
+      "Image": "https://pbs.twimg.com/profile_images/1327475342349484032/voiDWGRF_400x400.jpg",
+      "Link": "https://x.com/oumlr",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -916.063873590663,
+      "y": 1051.06005472894,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "sasakure.UK",
+      "Image": "https://pbs.twimg.com/profile_images/1776529320976199680/hSaKJh3w_400x400.jpg",
+      "Link": "https://www.youtube.com/@sasakureUK0211",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -636.038104915843,
+      "y": 1468.77682161906,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Tondemowonders",
+      "Image": "https://img.youtube.com/vi/dBQg24mx45Y/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=dBQg24mx45Y",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": -416.216959193526,
+      "y": 1573.03825826893,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "APO+",
+      "Image": "https://pbs.twimg.com/profile_images/1046434887056551936/Cwle3Gb8_400x400.jpg",
+      "Link": "https://x.com/APO_PLUS_",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -282.716896671948,
+      "y": 1423.93646539673,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "S'il vous President",
+      "Image": "https://img.youtube.com/vi/3V9952osjnc/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=3V9952osjnc",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": -457.896130628296,
+      "y": 1226.12711313251,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "nanahoshi orchestra",
+      "Image": "https://pbs.twimg.com/profile_images/1696791113020137472/qx2F0LUb_400x400.jpg",
+      "Link": "https://www.youtube.com/@nanakan927/videos",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -653.133924464692,
+      "y": 1269.51491962003,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Erui",
+      "Image": "https://pbs.twimg.com/profile_images/1032148350760497152/Axg931Az_400x400.jpg",
+      "Link": "https://x.com/le_hxxr",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -726.683671407638,
+      "y": 1115.37218486644,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Bassline Yatteru? W",
+      "Image": "https://static.wikia.nocookie.net/iowiro/images/0/06/Bassbook.jpg",
+      "Link": "https://www.youtube.com/watch?v=D00hlkW0u3U",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": -61.8005121313283,
+      "y": 1105.6037323335,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Camellia",
+      "Image": "https://pbs.twimg.com/profile_images/1849776146969395202/CGMjCj1G_400x400.jpg",
+      "Link": "https://x.com/cametek",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 251.617627542237,
+      "y": 614.142772217672,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "mamimu",
+      "Image": "https://pbs.twimg.com/profile_images/1762736878070226944/uTXvVlos_400x400.jpg",
+      "Link": "https://x.com/m_aiu",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -224.98928755451,
+      "y": 1223.7680364273,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Play With Fire",
+      "Image": "https://img.youtube.com/vi/od4QcDPpNVk/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=od4QcDPpNVk",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 442.244369319466,
+      "y": 569.341304387809,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Ryura",
+      "Image": "https://pbs.twimg.com/profile_images/1871173551300177921/NgADKrKr_400x400.jpg",
+      "Link": "https://x.com/ryura_san",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 633.425552134935,
+      "y": 510.294658735581,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "I'm Your Treasure Box",
+      "Image": "https://img.youtube.com/vi/vV-5W7SFHDc/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=vV-5W7SFHDc",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 796.575149397857,
+      "y": 823.076642117636,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "U.Z. Inu",
+      "Image": "https://i1.sndcdn.com/avatars-N99E4KzeR1cyuhYP-XczpCA-t500x500.jpg",
+      "Link": "https://soundcloud.com/uz-inu",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 1014.21247598705,
+      "y": 731.038709952236,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Toby Fox",
+      "Image": "https://pbs.twimg.com/profile_images/1304111803614613504/NKxFjarS_400x400.jpg",
+      "Link": "https://x.com/tobyfox",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 1198.57793513662,
+      "y": 480.750801564768,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "tease",
+      "Image": "https://pbs.twimg.com/profile_images/1152890332209545222/wDZHiU0x_400x400.png",
+      "Link": "https://x.com/tease__",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 884.497599237344,
+      "y": 1003.77834381243,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Houshou Marine",
+      "Image": "https://pbs.twimg.com/profile_images/1835492753289220096/rpWSQdrd_400x400.jpg",
+      "Link": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 685.154778637276,
+      "y": 987.580090028385,
+      "pinned": false,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Unison",
+      "Image": "https://img.youtube.com/vi/_VIeV_LZXHM/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=_VIeV_LZXHM",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 767.672106742846,
+      "y": 1177.47587989846,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Yunomi",
+      "Image": "https://pbs.twimg.com/profile_images/801182106105675776/bAJs9al3_400x400.jpg",
+      "Link": "https://www.youtube.com/@Yunomichannel",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 918.798962503958,
+      "y": 1312.18851893535,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Indoorkei nara Trackmaker",
+      "Image": "https://img.youtube.com/vi/114yuwqcQhM/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=114yuwqcQhM",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 1141.41142373045,
+      "y": 1307.55353964649,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "nicamoq",
+      "Image": "https://pbs.twimg.com/profile_images/1516438750317875200/YIhumVp8_400x400.jpg",
+      "Link": "https://x.com/nicamoq",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 1230.52856497377,
+      "y": 1118.16193237565,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Koino Uta",
+      "Image": "https://img.youtube.com/vi/NQSeENqfskI/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=NQSeENqfskI",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 1031.45757763929,
+      "y": 1140.25949671196,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Sky High",
+      "Image": "https://img.youtube.com/vi/yLrstz80MKs/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=yLrstz80MKs",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 747.814569360267,
+      "y": 1416.46549752791,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Kizuna Ai",
+      "Image": "https://pbs.twimg.com/profile_images/1894737335482478592/fZo-YMTs_400x400.png",
+      "Link": "https://www.youtube.com/channel/UC4YaOt1yT-ZeyB0OmxHgolA",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 554.931360473234,
+      "y": 1332.92145006347,
+      "pinned": false,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "III",
+      "Image": "https://img.youtube.com/vi/lUDPjyfmJrs/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=lUDPjyfmJrs",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 357.675332170075,
+      "y": 1133.42010218182,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "PRODUCTION HASU",
+      "Image": "https://pbs.twimg.com/profile_images/1864584540532232192/76IXsbC6_400x400.jpg",
+      "Link": "https://www.youtube.com/@hasumovie",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 141.550564921469,
+      "y": 1286.24021405714,
+      "pinned": false,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Johari",
+      "Image": "https://img.youtube.com/vi/66FfVXogNUc/mqdefault.jpg",
+      "Link": "https://img.youtube.com/vi/66FfVXogNUc/mqdefault.jpg",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 335.713227153808,
+      "y": 1350.35704830785,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Nornis",
+      "Image": "https://pbs.twimg.com/profile_images/1539481716796313601/Yn1tQUeN_400x400.jpg",
+      "Link": "https://www.youtube.com/@Nornis",
+      "Notes": "Group",
+      "Size": "1",
+      "Shape": "",
+      "x": 389.397345761763,
+      "y": 1543.06028956425,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Inui Toko",
+      "Image": "https://pbs.twimg.com/profile_images/1630523710661869569/Tau_ykbA_400x400.jpg",
+      "Link": "https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 241.576538665935,
+      "y": 1677.81062228388,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Machita Chima",
+      "Image": "https://pbs.twimg.com/profile_images/1893277715194695680/SowLuRol_400x400.jpg",
+      "Link": "https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 185.990907144887,
+      "y": 1485.45100741137,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Again",
+      "Image": "https://img.youtube.com/vi/AOHCRz4XnV8/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=AOHCRz4XnV8",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 568.643407165878,
+      "y": 1131.49266605338,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Chocolat Cadabra",
+      "Image": "https://img.youtube.com/vi/c5j7lpWprro/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=c5j7lpWprro",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": -60.1471433902812,
+      "y": -309.175260106501,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "TRIGGER",
+      "Image": "https://pbs.twimg.com/profile_images/2135364201/0322B75A-39A2-4C64-94D4-34D55F8497BA_400x400.jpg",
+      "Link": "https://www.youtube.com/@studiotrigger",
+      "Notes": "Studio",
+      "Size": "1",
+      "Shape": "",
+      "x": 92.78773280117,
+      "y": -181.121922263544,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "GameGameOver",
+      "Image": "https://img.youtube.com/vi/Qf0eZH0mzhg/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=Qf0eZH0mzhg",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": -143.814820601534,
+      "y": 436.598874845702,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Kaga Sumire",
+      "Image": "https://pbs.twimg.com/profile_images/1902473182583648262/uneNDSir_400x400.jpg",
+      "Link": "https://www.youtube.com/@KagaSumire",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -81.9656009182189,
+      "y": 246.403358415825,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Atohs Music",
+      "Image": "https://pbs.twimg.com/profile_images/1506679089159348224/RlePfBsb_400x400.jpg",
+      "Link": "https://x.com/Atohs_Music",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 55.578804735626,
+      "y": 478.652967967393,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "BITE! KAMU! BITE!",
+      "Image": "https://img.youtube.com/vi/LYnhN_49tpE/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=LYnhN_49tpE",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": -500.469900464324,
+      "y": 298.976375197552,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Inugami Korone",
+      "Image": "https://pbs.twimg.com/profile_images/1774521397173448704/4538sb4__400x400.jpg",
+      "Link": "https://www.youtube.com/@InugamiKorone",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -577.832309188416,
+      "y": 94.1227034611118,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Hakos Baelz",
+      "Image": "https://pbs.twimg.com/profile_images/1867504967801876482/7nPHgoLc_400x400.jpg",
+      "Link": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -632.860462833495,
+      "y": 451.897834656546,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Hylen",
+      "Image": "https://pbs.twimg.com/profile_images/1514954121631395842/HUWVIkhi_400x400.jpg",
+      "Link": "https://x.com/Hylen_JP",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -277.648681284643,
+      "y": 287.725902843225,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Mata, Okaeri",
+      "Image": "https://img.youtube.com/vi/kFH-KEZGYRk/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=kFH-KEZGYRk",
+      "Notes": "undefined",
+      "Size": "1",
+      "Shape": "square",
+      "x": -184.335854427524,
+      "y": 74.5873436927467,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Nekomata Okayu",
+      "Image": "https://pbs.twimg.com/profile_images/1892305167279648768/RJ9pgS9c_400x400.jpg",
+      "Link": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 12.3035860073081,
+      "y": 48.9846983617691,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "SHIMADA",
+      "Image": "https://pbs.twimg.com/profile_images/1553414262021713920/Tjpwosnl_400x400.jpg",
+      "Link": "https://x.com/odddddd64",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -378.970389837517,
+      "y": 115.461432687691,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Doggy god's street",
+      "Image": "https://img.youtube.com/vi/wLNTAMY1NZA/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=wLNTAMY1NZA",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": -490.225918697157,
+      "y": -144.469013805501,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "YABAMI",
+      "Image": "https://img.youtube.com/vi/pM8XtEmY5y8/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=pM8XtEmY5y8",
+      "Notes": "Cover",
+      "Size": "1",
+      "Shape": "square",
+      "x": -347.547508165926,
+      "y": 496.383848326864,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "BRAIN",
+      "Image": "https://img.youtube.com/vi/h4HkXR3NSI4/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=h4HkXR3NSI4",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": -200.158909639462,
+      "y": 628.501651901677,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Kanaria",
+      "Image": "https://pbs.twimg.com/profile_images/1663485539130163200/EfQodUlq_400x400.jpg",
+      "Link": "https://www.youtube.com/@kanaria9704",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -4.8483600378452,
+      "y": 680.052129632155,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "KING",
+      "Image": "https://img.youtube.com/vi/cm-l2h6GB8Q/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=cm-l2h6GB8Q",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": -13.2879572460863,
+      "y": 891.708595977834,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "nou",
+      "Image": "https://pbs.twimg.com/profile_images/1083008324667240454/YXQyloYN_400x400.jpg",
+      "Link": "https://x.com/nounoknown",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 160.055619981621,
+      "y": 791.954330853027,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Venom",
+      "Image": "https://img.youtube.com/vi/oRJBwaZ59fQ/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=oRJBwaZ59fQ",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 287.425006937204,
+      "y": 946.154667221142,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Kairiki bear",
+      "Image": "https://pbs.twimg.com/profile_images/1509907129154834435/D8q-9fhV_400x400.jpg",
+      "Link": "https://www.youtube.com/channel/UCp13SxKXbhCS0lb6Ty774iQ",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 136.118844995279,
+      "y": 1076.9509481157,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Requiem",
+      "Image": "https://img.youtube.com/vi/5Jja39-69G8/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=5Jja39-69G8",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 487.124932542354,
+      "y": 372.219936232787,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "LAM",
+      "Image": "https://pbs.twimg.com/profile_images/1696836424144945152/-pt7l8Dv_400x400.jpg",
+      "Link": "https://x.com/ramdayo1122",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 286.636525137149,
+      "y": 417.225524838599,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Stellar Stellar",
+      "Image": "https://img.youtube.com/vi/a51VH9BYzZA/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=a51VH9BYzZA",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 718.988912886784,
+      "y": -4.6855488244447,
+      "pinned": true,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "BIBBIDIBA ",
+      "Image": "https://img.youtube.com/vi/8ZP5eqm4JqM/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=8ZP5eqm4JqM",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 769.748257598777,
+      "y": 326.543266611573,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Mimicry Meta",
+      "Image": "https://pbs.twimg.com/profile_images/1457545670869790720/1M5HjVDB_400x400.jpg",
+      "Link": "https://www.youtube.com/@MimicryMeta",
+      "Notes": "Unit",
+      "Size": "1",
+      "Shape": "",
+      "x": 818.99726012768,
+      "y": 631.825751040542,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "POKEDANCE",
+      "Image": "https://img.youtube.com/vi/Wkrs11bLvpo/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=Wkrs11bLvpo",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 487.407476101099,
+      "y": 948.735444954531,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Honda Yuki",
+      "Image": "https://pbs.twimg.com/profile_images/1842164157325754368/VW8vDFMw_400x400.jpg",
+      "Link": "https://x.com/compose_ojisan",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 602.864077463854,
+      "y": 754.620855203731,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Arte Refact",
+      "Image": "https://pbs.twimg.com/profile_images/1842027419202646016/QM94bU5Q_400x400.jpg",
+      "Link": "https://x.com/Arte_Refact",
+      "Notes": "Group/Label",
+      "Size": "1",
+      "Shape": "",
+      "x": 401.623058432174,
+      "y": 767.754879857932,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "tsumiki",
+      "Image": "https://pbs.twimg.com/profile_images/964115118219931648/a1yFakR3_400x400.jpg",
+      "Link": "https://www.youtube.com/@tsumiki_NOMELONNOLEMON",
+      "Notes": "AKA NOMELON NOLEMON",
+      "Size": "1",
+      "Shape": "",
+      "x": 921.649067079268,
+      "y": 460.179697428188,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "phony",
+      "Image": "https://img.youtube.com/vi/9QLT1Aw_45s/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=9QLT1Aw_45s",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 953.79761459774,
+      "y": 248.264212518996,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Ueda Tsubasa",
+      "Image": "https://pbs.twimg.com/profile_images/1260176044327268353/zfddRfdH_400x400.jpg",
+      "Link": "https://x.com/t_u_illust",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 1150.06534614949,
+      "y": 286.718677316798,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Go-Getters",
+      "Image": "https://img.youtube.com/vi/j7RbmhKeaZs/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=j7RbmhKeaZs",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": -198.298458437851,
+      "y": -1208.2311848091,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "WIT Studio",
+      "Image": "https://pbs.twimg.com/profile_images/3689300530/a57feb39bc0a6537ddf123f306155045_400x400.png",
+      "Link": "https://x.com/WIT_STUDIO",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -90.9235894030252,
+      "y": -1377.05638120127,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Red",
+      "Image": "https://img.youtube.com/vi/-AuQZrUHjhg/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=-AuQZrUHjhg",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": -590.631547908944,
+      "y": -1358.39735147333,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Rei",
+      "Image": "https://pbs.twimg.com/profile_images/957101681304485888/N0tRmSJ2_400x400.jpg",
+      "Link": "https://x.com/rei_17",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -482.289837104753,
+      "y": -1526.71399690584,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "CapSule",
+      "Image": "https://img.youtube.com/vi/M85xU-tbQ6c/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=M85xU-tbQ6c",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 134.11221145422,
+      "y": -1359.01258305486,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "DOGMA",
+      "Image": "https://img.youtube.com/vi/M16xWzDjPmY/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=M16xWzDjPmY",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": -1339.85457639581,
+      "y": -93.5299379165141,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Sister Claire",
+      "Image": "https://pbs.twimg.com/profile_images/1204068661956235265/ksRvrbVv_400x400.jpg",
+      "Link": "https://www.youtube.com/@Sister_Claire",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -1527.20903839214,
+      "y": -163.749792726252,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "yayonano",
+      "Image": "https://pbs.twimg.com/profile_images/1653639904298176512/qmz8H9pU_400x400.jpg",
+      "Link": "https://x.com/nanoka_san",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -1417.21319193647,
+      "y": 92.4823997188083,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Snooze",
+      "Image": "https://img.youtube.com/vi/_gWn38pnmqI/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=_gWn38pnmqI",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": -1158.46749410995,
+      "y": -178.276917671611,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "SHIKI",
+      "Image": "https://pbs.twimg.com/profile_images/1456495786116915201/Xm_5xiqJ_400x400.jpg",
+      "Link": "https://www.youtube.com/channel/UCY4UuRwpv225Sg30wB5c_HQ",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -1045.50454843191,
+      "y": -343.347712930789,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "SHANTI",
+      "Image": "https://img.youtube.com/vi/POy0RvJeaqM/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=POy0RvJeaqM",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": -1218.95102287354,
+      "y": 66.0268533813911,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "ammon",
+      "Image": "https://pbs.twimg.com/profile_images/1298980957299421188/GqXANzxy_400x400.jpg",
+      "Link": "https://x.com/ammon_mk2",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": -1037.75743473544,
+      "y": -18.772342142043,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "ME!ME!ME!",
+      "Image": "https://img.youtube.com/vi/MkN7xmLBHyA/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=MkN7xmLBHyA&amp;amp;list=OLAK5uy_nnHZ5d75EAvNhneLJKTtYCi6TDVVaDwY4",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 26.0669551457003,
+      "y": -491.511313633569,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Daoko",
+      "Image": "https://pbs.twimg.com/profile_images/1789159988377821184/ZqnCrutH_400x400.jpg",
+      "Link": "https://www.youtube.com/channel/UChZvE2JzSafBDeAJNmwNGGA",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 179.473312675721,
+      "y": -361.361558969152,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "cort",
+      "Image": "https://pbs.twimg.com/profile_images/1899846861608865792/pAaifyZP_400x400.jpg",
+      "Link": "https://x.com/cort_mmd",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 404.608139372756,
+      "y": -319.937752198993,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "MILGRAM",
+      "Image": "https://pbs.twimg.com/profile_images/1889615651494567936/YHamz9ug_400x400.png",
+      "Link": "https://www.youtube.com/@MilgramOfficial",
+      "Notes": "Multimedia project",
+      "Size": "1",
+      "Shape": "",
+      "x": 483.593787647975,
+      "y": -1457.79029455521,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Vampire",
+      "Image": "https://img.youtube.com/vi/e1xCOsgWG0M/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=e1xCOsgWG0M",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 506.840149205531,
+      "y": -910.534481892167,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "hachisan",
+      "Image": "https://pbs.twimg.com/profile_images/1628671477762646018/d8Lys6eY_400x400.png",
+      "Link": "https://x.com/xxhachisan",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 307.568546706769,
+      "y": -865.959088158447,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "OTOIRO",
+      "Image": "https://pbs.twimg.com/profile_images/1741717641457434624/UPnQkzot_400x400.jpg",
+      "Link": "https://x.com/OTOIRO_Inc",
+      "Notes": "Company",
+      "Size": "1",
+      "Shape": "",
+      "x": 197.202044885574,
+      "y": -1148.58145646497,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "akka",
+      "Image": "https://pbs.twimg.com/profile_images/1159866762214514688/FKCjkISq_400x400.jpg",
+      "Link": "https://x.com/akka_1172",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 130.216105641698,
+      "y": -959.009543334116,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Rabbit Hole",
+      "Image": "https://img.youtube.com/vi/eSW2LVbPThw/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=eSW2LVbPThw",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 553.243116242079,
+      "y": -1162.90210123726,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "yuka fujii",
+      "Image": "https://pbs.twimg.com/profile_images/1528624178886475777/RaB78Wpq_400x400.jpg",
+      "Link": "https://x.com/uca_design",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 378.843613703245,
+      "y": -1064.77460247416,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "omutatsu",
+      "Image": "https://pbs.twimg.com/profile_images/1360178743835152384/hxdwTfjr_400x400.jpg",
+      "Link": "https://x.com/omrice4869",
+      "Notes": "AKA Tatsumi",
+      "Size": "1",
+      "Shape": "",
+      "x": 734.239705530317,
+      "y": -1248.37537655329,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "(Not) A Devil",
+      "Image": "https://cdn.karent.jp/thumb_a/409/3409_20221206191747_0400_0400.jpg",
+      "Link": "https://www.youtube.com/watch?v=lMEt3RdqB9Y",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 683.78069913916,
+      "y": -1443.4665210095,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "PinocchioP",
+      "Image": "https://pbs.twimg.com/profile_images/1692066434829123584/dUAxMRna_400x400.jpg",
+      "Link": "https://www.youtube.com/@pinocchiop",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 941.361840232715,
+      "y": -1274.46625622049,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "God-ish",
+      "Image": "https://img.youtube.com/vi/EHBFKhLUVig/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=EHBFKhLUVig",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 886.069564045999,
+      "y": -1508.22465769782,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Non-breth oblige",
+      "Image": "https://img.youtube.com/vi/lw7pcm1W5tw/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=lw7pcm1W5tw",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 888.103971590277,
+      "y": -1078.86730761433,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "EirinaHamono",
+      "Image": "https://pbs.twimg.com/profile_images/1541631978763853824/tjD6v13d_400x400.png",
+      "Link": "https://x.com/eiri7hamono",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 697.265123925937,
+      "y": -1017.23705102593,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "I'm a Controversy",
+      "Image": "https://img.youtube.com/vi/lZGo8jcEW2M/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=lZGo8jcEW2M",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 574.168789252138,
+      "y": -724.032809201344,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "SLoWMoTIoN",
+      "Image": "https://img.youtube.com/vi/ARt2fVT33Lw/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=ARt2fVT33Lw",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 1130.94831137234,
+      "y": -1443.45455741037,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "yomei 2:30",
+      "Image": "https://img.youtube.com/vi/8yUDr7BQYEo/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=8yUDr7BQYEo",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 1240.36437140194,
+      "y": -1256.17467782699,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "MoguMoguYUMMY!",
+      "Image": "https://img.youtube.com/vi/j6P_m6adkgc/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=j6P_m6adkgc",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 309.645196985504,
+      "y": 225.705333306867,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Yamashita Makoto",
+      "Image": "https://pbs.twimg.com/profile_images/1705066657314754561/-GaEfZkq_400x400.jpg",
+      "Link": "https://x.com/chiemin1063",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 279.007751585132,
+      "y": 154.173288723512,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "ponono",
+      "Image": "https://pbs.twimg.com/profile_images/1505036016541122561/T8N3d86e_400x400.jpg",
+      "Link": "https://x.com/pnn_sb",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 385.811087852082,
+      "y": 202.280565505137,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "YoiYoi Kokon",
+      "Image": "https://img.youtube.com/vi/8IK6eLTNV1k/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=8IK6eLTNV1k",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 771.937858939266,
+      "y": -694.229412856468,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Childish War",
+      "Image": "https://img.youtube.com/vi/qYAmduGAwBQ/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=qYAmduGAwBQ",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 1173.65447135122,
+      "y": -721.720251514423,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Miwashiba",
+      "Image": "https://pbs.twimg.com/profile_images/1501806290615488512/EtMhlQsl_400x400.jpg",
+      "Link": "https://x.com/miwasiba",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 1245.92222498063,
+      "y": -891.955911781642,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Knock it out!",
+      "Image": "https://img.youtube.com/vi/CreBLwKpLXc/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=CreBLwKpLXc",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 1091.00394390994,
+      "y": -541.890239619684,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Amane Kanata",
+      "Image": "https://pbs.twimg.com/profile_images/1749383898713448448/NjBCnfLR_400x400.jpg",
+      "Link": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 1198.6892301652,
+      "y": -354.34336230875,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Hinatsu",
+      "Image": "https://pbs.twimg.com/profile_images/1005791448426426369/o1BYbyUX_400x400.jpg",
+      "Link": "https://x.com/toubou_hpmy",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 999.018342248747,
+      "y": -365.861163371249,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Alice Eishin",
+      "Image": "https://pbs.twimg.com/profile_images/1609240542780731392/0ioDd_1e_400x400.jpg",
+      "Link": "https://x.com/alice_eishin",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 1264.11084404062,
+      "y": -543.34224517557,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Kataha",
+      "Image": "https://img.youtube.com/vi/Z2K1H9D0DZ8/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=Z2K1H9D0DZ8",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 1238.50015454535,
+      "y": -158.346734233889,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "toga",
+      "Image": "https://pbs.twimg.com/profile_images/842656990618771456/FPcKNuCN_400x400.jpg",
+      "Link": "https://x.com/xxtogaxx",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 1174.38833810386,
+      "y": 4.65872606374348,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Oracle",
+      "Image": "https://img.youtube.com/vi/2ILWn-YyzTQ/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=2ILWn-YyzTQ",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 1396.63899060415,
+      "y": -388.467727266481,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "matlity",
+      "Image": "https://pbs.twimg.com/profile_images/1707789748956540928/RnJXL5Km_400x400.jpg",
+      "Link": "https://x.com/matlity",
+      "Notes": "Studio",
+      "Size": "1",
+      "Shape": "",
+      "x": 1459.72913152268,
+      "y": -578.824929113942,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Jin",
+      "Image": "https://pbs.twimg.com/profile_images/1872268822637658112/CIR2ceRl_400x400.jpg",
+      "Link": "https://x.com/jin_jin_suruyo",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 1596.03486760644,
+      "y": -414.32559835671,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Tenshi no agape",
+      "Image": "https://img.youtube.com/vi/zREufEpj0zM/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=zREufEpj0zM",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 1435.5983825071,
+      "y": -192.298169110766,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "sho watanabe",
+      "Image": "https://pbs.twimg.com/profile_images/1549006919234248704/wkALSxc4_400x400.jpg",
+      "Link": "https://x.com/watanabesho",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 1522.36598230945,
+      "y": -20.6325775329522,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "crossing field",
+      "Image": "https://i1.sndcdn.com/artworks-000081454958-1hawln-t500x500.jpg",
+      "Link": "https://www.youtube.com/watch?v=F9GXgPHeKfA",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 1386.4650059118,
+      "y": 48.5420395661499,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Kagerou Days",
+      "Image": "https://img.youtube.com/vi/EMGyiiTC7sg/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=EMGyiiTC7sg",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 1657.73935750758,
+      "y": -606.973235378185,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Sidu",
+      "Image": "https://pbs.twimg.com/profile_images/1847080046521208833/c0kBhwex_400x400.jpg",
+      "Link": "https://x.com/Dsd_kgn",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 1824.15519658546,
+      "y": -522.112645401016,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Kisaragi Attention",
+      "Image": "https://img.youtube.com/vi/-y3BSoHOT9A/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=-y3BSoHOT9A",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 1777.16488251469,
+      "y": -327.701633188472,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "wannyanpuu",
+      "Image": "https://pbs.twimg.com/profile_images/1875927861447860225/thaW5gnK_400x400.jpg",
+      "Link": "https://x.com/wannyanpu_ppp",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 1638.83157286046,
+      "y": -183.224973620591,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "Aku-tan no koto sukisugi song",
+      "Image": "https://img.youtube.com/vi/YHfc0M3CGw0/mqdefault.jpg",
+      "Link": "https://www.youtube.com/watch?v=YHfc0M3CGw0",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "square",
+      "x": 1712.58086662084,
+      "y": 41.1531297571433,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    },
+    {
+      "Name": "ARM",
+      "Image": "https://pbs.twimg.com/profile_images/570528069341818880/OFP1yGra_400x400.jpeg",
+      "Link": "https://x.com/arm_iosys",
+      "Notes": "",
+      "Size": "1",
+      "Shape": "",
+      "x": 1426.36816053454,
+      "y": 244.525193330583,
+      "hidden": false,
+      "BorderColor": "#a9a9a9"
+    }
+  ],
+  "links": [
+    {
+      "Source": "Giga",
+      "Target": "TeddyLoid+Giga",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "TeddyLoid",
+      "Target": "TeddyLoid+Giga",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Giga",
+      "Target": "REOL",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Reol",
+      "Target": "REOL",
+      "Relation": "Vocal, lyrics",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "REOL",
+      "Target": "No Title",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Ogita",
+      "Target": "REOL",
+      "Relation": "MV",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "TeddyLoid+Giga",
+      "Target": "Odo",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Deco*27",
+      "Target": "Odo",
+      "Relation": "Lyrics",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Aise Minami",
+      "Target": "Odo",
+      "Relation": "MV",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Kayuka",
+      "Target": "Odo",
+      "Relation": "Illustrations",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "ORIHARA",
+      "Target": "Odo",
+      "Relation": "Illustrations",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Ado",
+      "Target": "Odo",
+      "Relation": "Vocals",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "ORIHARA",
+      "Target": "Make Em Afraid",
+      "Relation": "MV",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Mori Calliope",
+      "Target": "Make Em Afraid",
+      "Relation": "Vocals, lyrics",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "ORIHARA",
+      "Target": "Zamuza",
+      "Relation": "MV",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Teniwoha",
+      "Target": "Zamuza",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Teniwoha",
+      "Target": "Villian",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Nekoko",
+      "Target": "Villian",
+      "Relation": "Illustrations",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Nekoko",
+      "Target": "Picaresque Romancer",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Meychan",
+      "Target": "Picaresque Romancer",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Ado",
+      "Target": "Ussewa",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "syudou",
+      "Target": "Ussewa",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "WOOMA",
+      "Target": "Ussewa",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "syudou",
+      "Target": "Bitter Choco Decoration",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Yasutatsu",
+      "Target": "Bitter Choco Decoration",
+      "Relation": "MV",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "syudou",
+      "Target": "Cute Na Kanojo",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "kuroume",
+      "Target": "Cute Na Kanojo",
+      "Relation": "MV",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "kuroume",
+      "Target": "Endeavour",
+      "Relation": "MV",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Fuwa Minato",
+      "Target": "Endeavour",
+      "Relation": "Vocals",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Fuwa Minato",
+      "Target": "Violet!?",
+      "Relation": "Vocals",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "wotaku",
+      "Target": "Endeavour",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "natori",
+      "Target": "Violet!?",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "natori",
+      "Target": "Overdose",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "KAFU",
+      "Target": "Cute Na Kanojo",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "KAF",
+      "Target": "KAFU",
+      "Relation": "Voice Provider",
+      "Strength": "1",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Ado",
+      "Target": "Show (shou)",
+      "Relation": "Vocals",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "TeddyLoid+Giga",
+      "Target": "Show (shou)",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Yasutatsu",
+      "Target": "Show (shou)",
+      "Relation": "Illustrations",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "KAF",
+      "Target": "Devour the past",
+      "Relation": "Vocals",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Iori Kanzaki",
+      "Target": "Devour the past",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Iori Kanzaki",
+      "Target": "Hated by life itself.",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "TOPHAMHAT-KYO",
+      "Target": "Show (shou)",
+      "Relation": "Lyrics",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "TOPHAMHAT-KYO",
+      "Target": "FAKE TYPE.",
+      "Relation": "Lyrics",
+      "Strength": "1",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "DYES IWASAKI",
+      "Target": "FAKE TYPE.",
+      "Relation": "Arrangement",
+      "Strength": "1",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "FAKE TYPE.",
+      "Target": "What an amazing swing",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Tsunomaki Watame",
+      "Target": "What an amazing swing",
+      "Relation": "Vocals",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Sanzigen ",
+      "Target": "What an amazing swing",
+      "Relation": "MV",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Sanzigen ",
+      "Target": "SAIKYOUTICPOLKA",
+      "Relation": "MV",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Hidekazu Tanaka",
+      "Target": "SAIKYOUTICPOLKA",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Hidekazu Tanaka",
+      "Target": "Koi wa Chaos no Shimobe Nari",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Hidekazu Tanaka",
+      "Target": "Suki no Skill",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Wake Up, Girls!",
+      "Target": "Suki no Skill",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Kodama Saori",
+      "Target": "SAIKYOUTICPOLKA",
+      "Relation": "Lyrics",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Omaru Polka",
+      "Target": "SAIKYOUTICPOLKA",
+      "Relation": "Vocals",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "TOHRU MITSUHASHI",
+      "Target": "Show (shou)",
+      "Relation": "MV",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "TOHRU MITSUHASHI",
+      "Target": "Viva Happy",
+      "Relation": "Compositing",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "TOHRU MITSUHASHI",
+      "Target": "Anti-Gravity Girl",
+      "Relation": "MV",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Mitchie M",
+      "Target": "Viva Happy",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "TAKU INOUE",
+      "Target": "Anti-Gravity Girl",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Mitchie M",
+      "Target": "FREELY TOMORROW",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Tsukino Mito",
+      "Target": "Anti-Gravity Girl",
+      "Relation": "Vocals",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "TAKU INOUE",
+      "Target": "Midnight Grand Orchestra",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Hoshimachi Suisei",
+      "Target": "Midnight Grand Orchestra",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "TOHRU MITSUHASHI",
+      "Target": "INTERNET OVERDOSE",
+      "Relation": "MV",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "KOTOKO",
+      "Target": "INTERNET OVERDOSE",
+      "Relation": "Vocals",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Kokamumo",
+      "Target": "INTERNET OVERDOSE",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Aiobahn",
+      "Target": "Aiobahn +81",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Aiobahn +81",
+      "Target": "INTERNET OVERDOSE",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Iori Kanzaki",
+      "Target": "That Summer Saturates.",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Aiobahn +81",
+      "Target": "TentenTengokuJigokugoku",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Pmarusama",
+      "Target": "TentenTengokuJigokugoku",
+      "Relation": "Vocals",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Nanahira",
+      "Target": "TentenTengokuJigokugoku",
+      "Relation": "Vocals",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Youno Yoshimi",
+      "Target": "TentenTengokuJigokugoku",
+      "Relation": "Lyrics",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Youno Yoshimi",
+      "Target": "IOSYS",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "odyk",
+      "Target": "TentenTengokuJigokugoku",
+      "Relation": "MV",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Aiobahn",
+      "Target": "new world",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Isekaijoucho",
+      "Target": "new world",
+      "Relation": "Vocals",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Isekaijoucho",
+      "Target": "Sirius no Shinzou",
+      "Relation": "Vocals",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Kasamura Tota",
+      "Target": "Sirius no Shinzou",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "UDON",
+      "Target": "Sirius no Shinzou",
+      "Relation": "MV",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Kasamura Tota",
+      "Target": "Anata no Yoru ga Akeru made",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Isekaijoucho",
+      "Target": "Isekai no Housekitan",
+      "Relation": "Vocals",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "oumlr",
+      "Target": "Isekai no Housekitan",
+      "Relation": "MV",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "sasakure.UK",
+      "Target": "Isekai no Housekitan",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "sasakure.UK",
+      "Target": "Tondemowonders",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "APO+",
+      "Target": "Tondemowonders",
+      "Relation": "Animation",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Pmarusama",
+      "Target": "S'il vous President",
+      "Relation": "Vocals",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "nanahoshi orchestra",
+      "Target": "S'il vous President",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Erui",
+      "Target": "S'il vous President",
+      "Relation": "MV",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Nanahira",
+      "Target": "Bassline Yatteru? W",
+      "Relation": "Vocals",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Camellia",
+      "Target": "Bassline Yatteru? W",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "mamimu",
+      "Target": "Bassline Yatteru? W",
+      "Relation": "Illustration",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Camellia",
+      "Target": "Play With Fire",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Ryura",
+      "Target": "Play With Fire",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Camellia",
+      "Target": "I'm Your Treasure Box",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "U.Z. Inu",
+      "Target": "I'm Your Treasure Box",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Toby Fox",
+      "Target": "U.Z. Inu",
+      "Relation": "",
+      "Strength": "",
+      "Style": "dash",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "tease",
+      "Target": "I'm Your Treasure Box",
+      "Relation": "Director",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Houshou Marine",
+      "Target": "I'm Your Treasure Box",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Houshou Marine",
+      "Target": "Unison",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Unison",
+      "Target": "tease",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Yunomi",
+      "Target": "Unison",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Yunomi",
+      "Target": "Indoorkei nara Trackmaker",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "nicamoq",
+      "Target": "Indoorkei nara Trackmaker",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Yunomi",
+      "Target": "Koino Uta",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Yunomi",
+      "Target": "Sky High",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Kizuna Ai",
+      "Target": "Sky High",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Houshou Marine",
+      "Target": "III",
+      "Relation": "Vocals",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "PRODUCTION HASU",
+      "Target": "III",
+      "Relation": "MV",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "PRODUCTION HASU",
+      "Target": "Johari",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Nornis",
+      "Target": "Johari",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Inui Toko",
+      "Target": "Nornis",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Machita Chima",
+      "Target": "Nornis",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Giga",
+      "Target": "III",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Kizuna Ai",
+      "Target": "Again",
+      "Relation": "Vocals, Lyrics",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "TAKU INOUE",
+      "Target": "Again",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Ado",
+      "Target": "Chocolat Cadabra",
+      "Relation": "Vocals",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "TAKU INOUE",
+      "Target": "Chocolat Cadabra",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "TRIGGER",
+      "Target": "Chocolat Cadabra",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Camellia",
+      "Target": "Chocolat Cadabra",
+      "Relation": "Lyrics",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "odyk",
+      "Target": "GameGameOver",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Kaga Sumire",
+      "Target": "GameGameOver",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Atohs Music",
+      "Target": "GameGameOver",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "odyk",
+      "Target": "BITE! KAMU! BITE!",
+      "Relation": "Animation",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Inugami Korone",
+      "Target": "BITE! KAMU! BITE!",
+      "Relation": "Vocals",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Hakos Baelz",
+      "Target": "BITE! KAMU! BITE!",
+      "Relation": "Vocals",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Hylen",
+      "Target": "BITE! KAMU! BITE!",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Hylen",
+      "Target": "Mata, Okaeri",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Nekomata Okayu",
+      "Target": "Mata, Okaeri",
+      "Relation": "Vocals",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "SHIMADA",
+      "Target": "Mata, Okaeri",
+      "Relation": "MV Director",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Inugami Korone",
+      "Target": "Doggy god's street",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "FAKE TYPE.",
+      "Target": "Doggy god's street",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "odyk",
+      "Target": "YABAMI",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "odyk",
+      "Target": "BRAIN",
+      "Relation": "MV",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Kanaria",
+      "Target": "BRAIN",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Kanaria",
+      "Target": "KING",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "nou",
+      "Target": "KING",
+      "Relation": "Illustration",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "nou",
+      "Target": "Venom",
+      "Relation": "Illustration",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Kairiki bear",
+      "Target": "Venom",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Kanaria",
+      "Target": "Requiem",
+      "Relation": "Arrangement, Vocals",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Hoshimachi Suisei",
+      "Target": "Requiem",
+      "Relation": "Vocals",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "LAM",
+      "Target": "Requiem",
+      "Relation": "Illustration",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Hoshimachi Suisei",
+      "Target": "Stellar Stellar",
+      "Relation": "Vocals, Lyrics",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "TAKU INOUE",
+      "Target": "Stellar Stellar",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Hoshimachi Suisei",
+      "Target": "BIBBIDIBA ",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Mimicry Meta",
+      "Target": "BIBBIDIBA ",
+      "Relation": "Director",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Mimicry Meta",
+      "Target": "POKEDANCE",
+      "Relation": "Director",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Nanahira",
+      "Target": "POKEDANCE",
+      "Relation": "Vocals",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Honda Yuki",
+      "Target": "POKEDANCE",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Honda Yuki",
+      "Target": "Arte Refact",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "tsumiki",
+      "Target": "BIBBIDIBA ",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "tsumiki",
+      "Target": "phony",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Ueda Tsubasa",
+      "Target": "phony",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Mori Calliope",
+      "Target": "Go-Getters",
+      "Relation": "Vocals",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "TeddyLoid+Giga",
+      "Target": "Go-Getters",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "WIT Studio",
+      "Target": "Go-Getters",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Mori Calliope",
+      "Target": "Red",
+      "Relation": "Vocals, Lyrics",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Teniwoha",
+      "Target": "Red",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Rei",
+      "Target": "Red",
+      "Relation": "Illustrations",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Mori Calliope",
+      "Target": "CapSule",
+      "Relation": "Vocals",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Deco*27",
+      "Target": "CapSule",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Hoshimachi Suisei",
+      "Target": "CapSule",
+      "Relation": "Vocals",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "wotaku",
+      "Target": "DOGMA",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Sister Claire",
+      "Target": "DOGMA",
+      "Relation": "Vocals",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "yayonano",
+      "Target": "DOGMA",
+      "Relation": "Illustration",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "wotaku",
+      "Target": "Snooze",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "SHIKI",
+      "Target": "Snooze",
+      "Relation": "Vocals",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "wotaku",
+      "Target": "SHANTI",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "ammon",
+      "Target": "SHANTI",
+      "Relation": "Illustration",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "TeddyLoid",
+      "Target": "ME!ME!ME!",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Daoko",
+      "Target": "ME!ME!ME!",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "cort",
+      "Target": "Viva Happy",
+      "Relation": "Director, Character Animation",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Deco*27",
+      "Target": "MILGRAM",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Deco*27",
+      "Target": "Vampire",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "hachisan",
+      "Target": "OTOIRO",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Deco*27",
+      "Target": "OTOIRO",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "akka",
+      "Target": "OTOIRO",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Deco*27",
+      "Target": "Rabbit Hole",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "hachisan",
+      "Target": "Vampire",
+      "Relation": "Illustration",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "yuka fujii",
+      "Target": "OTOIRO",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "yuka fujii",
+      "Target": "Rabbit Hole",
+      "Relation": "Director",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "omutatsu",
+      "Target": "Rabbit Hole",
+      "Relation": "Illustration",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Deco*27",
+      "Target": "(Not) A Devil",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "PinocchioP",
+      "Target": "(Not) A Devil",
+      "Relation": "Arrangement, Illustration",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "omutatsu",
+      "Target": "(Not) A Devil",
+      "Relation": "Illustration",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "PinocchioP",
+      "Target": "God-ish",
+      "Relation": "Everything",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "PinocchioP",
+      "Target": "Non-breth oblige",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "EirinaHamono",
+      "Target": "Non-breth oblige",
+      "Relation": "MV",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Ado",
+      "Target": "I'm a Controversy",
+      "Relation": "Vocal",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "EirinaHamono",
+      "Target": "I'm a Controversy",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "PinocchioP",
+      "Target": "I'm a Controversy",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "PinocchioP",
+      "Target": "SLoWMoTIoN",
+      "Relation": "Arrangement, MV",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "PinocchioP",
+      "Target": "yomei 2:30",
+      "Relation": "Everything",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Nekomata Okayu",
+      "Target": "MoguMoguYUMMY!",
+      "Relation": "Vocals",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "PinocchioP",
+      "Target": "MoguMoguYUMMY!",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Yamashita Makoto",
+      "Target": "MoguMoguYUMMY!",
+      "Relation": "Pixel Art",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "ponono",
+      "Target": "MoguMoguYUMMY!",
+      "Relation": "Illustrations",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "REOL",
+      "Target": "YoiYoi Kokon",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "REOL",
+      "Target": "Childish War",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Miwashiba",
+      "Target": "Childish War",
+      "Relation": "Illustrations",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "TeddyLoid+Giga",
+      "Target": "Knock it out!",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Amane Kanata",
+      "Target": "Knock it out!",
+      "Relation": "Vocals",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Hinatsu",
+      "Target": "Knock it out!",
+      "Relation": "Illustration",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Alice Eishin",
+      "Target": "Knock it out!",
+      "Relation": "MV",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Amane Kanata",
+      "Target": "Kataha",
+      "Relation": "Vocal, Lyrics",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Camellia",
+      "Target": "Kataha",
+      "Relation": "Arrangement, Lyrics",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Toby Fox",
+      "Target": "Kataha",
+      "Relation": "Arrangement, Lyrics",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "toga",
+      "Target": "Kataha",
+      "Relation": "MV",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Amane Kanata",
+      "Target": "Oracle",
+      "Relation": "Vocals",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "matlity",
+      "Target": "Oracle",
+      "Relation": "MV",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Jin",
+      "Target": "Oracle",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Amane Kanata",
+      "Target": "Tenshi no agape",
+      "Relation": "Vocals",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "sho watanabe",
+      "Target": "Tenshi no agape",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "sho watanabe",
+      "Target": "crossing field",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    },
+    {
+      "Source": "Jin",
+      "Target": "Kagerou Days",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Sidu",
+      "Target": "Kagerou Days",
+      "Relation": "MV",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "Jin",
+      "Target": "Kisaragi Attention",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "wannyanpuu",
+      "Target": "Kisaragi Attention",
+      "Relation": "Animation",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "wannyanpuu",
+      "Target": "Tenshi no agape",
+      "Relation": "Animation",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "wannyanpuu",
+      "Target": "Aku-tan no koto sukisugi song",
+      "Relation": "Animation",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "ARM",
+      "Target": "Aku-tan no koto sukisugi song",
+      "Relation": "Arrangement",
+      "Strength": "",
+      "Style": "",
+      "Color": "#a9a9a9"
+    },
+    {
+      "Source": "ARM",
+      "Target": "IOSYS",
+      "Relation": "",
+      "Strength": "",
+      "Color": "#A9A9A9"
+    }
+  ]
+}

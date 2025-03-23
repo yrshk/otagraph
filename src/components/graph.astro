@@ -1,0 +1,27 @@
+---
+---
+<script src="../scripts/forceGraphMain.js"></script>
+
+<div id="GraphContainer"style="height:100%">
+  <div style="background-color: #d8d8df;" id="graph"></div>
+
+  <span id="graphOptionsElement">
+    <img style="position: fixed;right:7px;max-width:30px"src="/images/Fa-Team-Fontawesome-FontAwesome-Gear.svg">
+    <button type="button" class="optionButtons" id="SaveBt">Save Graph</button>
+    <button type="button" class="optionButtons" id="LoadBt">Load Graph</button>
+    <button type="button" class="optionButtons" id="EditBt">Edit <br>Graph</button>
+    <button type="button" class="optionButtons" id="NewGraphBt"  style="display:none;position:fixed; transform:translate(-13em,-3em);">New <br>Graph</button>
+    <button type="button" class="optionButtons" id="HiddenNodesBt">Unhide Nodes</button>
+    <button type="button" class="optionButtons" id="HideNodeLabelsBt">Hide Node Labels</button>
+  </span>
+  <div id="bottomLeftLabels" ><a href="/about" target="_blank">about/help/other graphs</a></div>
+  <input type="search" id="NodeSearchField" list="NodeSearchFieldDatalist"incremental="true" placeholder="Search Nodes...">
+  <datalist id="NodeSearchFieldDatalist"></datalist>
+  <datalist id="ColorDatalist">
+    <option value="#0066cc"></option>
+    <option value="#00cc66"></option>
+    <option value="#FF0000"></option>
+    <option value="#A9A9A9"></option>
+    
+  </datalist>
+</div>
