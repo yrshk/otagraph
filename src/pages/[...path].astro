@@ -1,0 +1,74 @@
+---
+import Graph from '../components/graph.astro';
+import '../styles/globals.css';
+
+export const prerender = false;
+
+
+const pages = [
+{path: undefined, docAdd: "2PACX-1vSPfcdDVagSbXNwYLjoLyFfLV42Q7U-hmkNhkCaIZx1GAPTgeiuURmhMn1bqJhxcWBRNzdCxTzOt8_x", nodeGID: "0", linkGID: "1963563391"},
+{path: "vtubers", docAdd: "vtubers", nodeGID: "", linkGID: "1963563391"},
+{path: "vtubers_past-lives", docAdd: "", nodeGID: "", linkGID: ""},
+{path: "JPYT-music-videos", docAdd: "", nodeGID: "", linkGID: ""},
+{path: "movies", docAdd: "", nodeGID: "", linkGID: ""},
+{path: "guns", docAdd: "", nodeGID: "", linkGID: ""},
+
+]
+
+const {path} = Astro.params;
+let docAdd = "";
+let nodeGID = "";
+let linkGID = "";
+let dataObj = "";
+
+//const page = pages.find((page) => page.path === path);
+if(path === undefined){
+docAdd = pages[0].docAdd;
+nodeGID = pages[0].nodeGID;
+linkGID = pages[0].linkGID;
+}
+else if(path == "vtubers"){
+import vtubersJSON from "../data/graphs/vtubers.json";
+dataObj = JSON.stringify(vtubersJSON);
+}
+else if(path == "vtubers_past-lives"){
+import vtuberspastlivesJSON from "../data/graphs/vtubers_past-lives.json";
+dataObj = JSON.stringify(vtuberspastlivesJSON);
+}
+else if(path == "JPYT-music-videos"){
+import JPYTMVDataJSON from "../data/graphs/JPYT-music-videos.json";
+dataObj = JSON.stringify(JPYTMVDataJSON);
+}
+else if(path == "movies"){
+import moviesDataJSON from "../data/graphs/movies.json";
+dataObj = JSON.stringify(moviesDataJSON);
+}
+else if(path == "guns"){
+import gunsDataJSON from "../data/graphs/guns.json";
+dataObj = JSON.stringify(gunsDataJSON);
+}
+else{
+const pathArr = path.split('/');
+ docAdd = pathArr[0];
+ nodeGID = pathArr[1];
+ linkGID = pathArr[2];
+console.log(docAdd);
+}
+//console.log(dataObj);
+
+---
+<link rel="icon" type="image/jpg" href="/favicon.png"/>
+
+<script src="../scripts/forceGraphMain.js"></script>
+
+
+<div style="display:none" id="DocsInfoHolderElement">{docAdd}/{nodeGID}/{linkGID}</div>
+<div style="display:none" id="objHolder">{dataObj}</div>
+
+<Graph />
+
+
+
+
+
+{/*<div>wah</div>*/}
